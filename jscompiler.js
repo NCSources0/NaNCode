@@ -5,6 +5,10 @@ in this file, but we are not psychopaths so
 you can search for (CTRL+F) for "////"
 */
 
+// THIS FILE IS INTENDED FOR TRANSLATING THIS
+// LANGUAGE INTO THE JS USING NODE, SO THIS
+// LANGAUGE CAN BE USED FOR THE WEB.
+
 //// THE BASICS
 const keywords = ['null', 'NaN', '#', 'true', 'false', 'undefined', 'if', 'else', 'function', 'return', 'try', 'catch', 'finally', 'new'];
 const functions = ['print', '!'];
