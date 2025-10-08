@@ -1,3 +1,11 @@
+// LICENSED UNDER THE MIT LICENSE
+/*
+All of the contents of the language is defined
+in this file, but we are not psychopaths so
+you can search for (CTRL+F) for "////"
+*/
+
+//// THE BASICS
 const keywords = ['null', 'NaN', '#', 'true', 'false', 'undefined', 'if', 'else', 'function', 'return', 'try', 'catch', 'finally', 'new'];
 const functions = ['print', '!'];
 const operators = ['==', '>=', '<=', '>', '<'];
