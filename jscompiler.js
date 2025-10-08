@@ -54,5 +54,6 @@ function tokenize(str) {
 tokenize(`x = "67"
 y = [6, 7]
 z = { "a": 6, "b": 7 }
-n = 67`)
+n = 67
+z['a'] = 8`)
 console.log(variables);
